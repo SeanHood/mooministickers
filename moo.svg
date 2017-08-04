@@ -1,0 +1,31 @@
+<svg width="960px" height="960px" viewbox="0 0 960 960" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+  <style type="text/css">
+    @font-face {
+      font-family: 'Proxima Nova Soft';
+      src: url('./ProximaNovaSoft-Semibold-webfont.woff');
+    }
+  </style>
+</defs> 
+<g>
+
+<!--
+    #02779E - Blue
+    #BD2A4E - Pink
+-->
+  <svg height="480" width="960">
+    <rect x="0" y="0" width="100%" height="100%" fill="#BD2A4E" />
+    <text x="50%" y="55%" font-family="Proxima Nova Soft" alignment-baseline="central" text-anchor="middle" font-size="160" fill="white">
+      First Last
+    </text>
+  </svg>
+
+  <svg y="50%" height="480" width="960">
+    <text x="50%" y="20%" font-family="Proxima Nova Soft" alignment-baseline="central" text-anchor="middle" font-size="80" fill="black">
+      <tspan x="50%" dy="1.2em">00000000000</tspan>
+      <tspan x="50%" dy="1.2em">first@last.com</tspan>
+    </text>
+  </svg>
+
+</g>
+</svg>
