@@ -6,7 +6,7 @@ I needed some basic stickers I could stick on various things I own, so if I lent
 
 Figured I could also learn how to make SVG's in the process so here we are.
 
-Note: The typeface I used it non-free so can't be included.
+Note: The typeface I used is non-free so can't be included.
 
 ## How to
 
